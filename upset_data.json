@@ -1,11 +1,11 @@
 {
-	"file": "https://github.com/pikapika-qiu/upset_data",
+	"file": "https://github.com/pikapika-qiu/upset_data.csv",
 	"name": "upset_data",
 	"header": 0,
 	"separator": ";",
 	"skip": 0,
 	"meta": [
-		{ "type": "id", "index": 0, "name": "Gene" },
+		{ "type": "id", "index": 0, "name": "Gene" }
 	],
 	"sets": [
 		{ "format": "binary", "start": 1, "end": 7 }
